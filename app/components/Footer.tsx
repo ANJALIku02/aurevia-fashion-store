@@ -1,0 +1,2 @@
+import Link from'next/link';export default function Footer(){return <footer><div><Link className="logo" href="/">AUREVIA<span>®</span></Link><p>Modern clothing for real life.</p></div><div><Link href="/shop">Shop</Link><Link href="/about">Our story</Link><Link href="/contact">Contact</Link><Link href="/cart">Bag</Link></div><div><p>Questions?</p><a href="mailto:anjalikumari763101@gmail.com">anjalikumari763101@gmail.com</a></div><small>© 2026 AUREVIA. All rights reserved.</small></footer>}
+
